@@ -3,7 +3,7 @@ grow a garden script that has egg detector, change egg chances, pet esp, player 
 
 # ADD:saasd_29054 IN DC FOR HELP
 
-# SCRIPT:loadstring(game:HttpGet("https://paste.ee/r/lImZxvio"))()
+# loadstring(game:HttpGet("https://paste.ee/r/ddM78CMv"))()
 
 
 HELP ME BY BUYING MERCH https://www.roblox.com/communities/32545399/SkyfaIIs#!/store
